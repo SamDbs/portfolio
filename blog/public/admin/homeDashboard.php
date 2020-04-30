@@ -1,0 +1,1 @@
+<h1>Bienvenue sur la page d'administration du site</h1>
